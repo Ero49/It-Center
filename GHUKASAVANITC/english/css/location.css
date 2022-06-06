@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: #f1f1f1;
+    height: 100%;
+}
+.h11{
+    color: grey;
+}
+.found{
+    width: 82%;
+}
+.pic{
+    width: 23%;
+}
+.padd{
+    padding: 0 auto;
+}
+.footing{
+    background-color: grey;
+    width: 100%;
+}
+.textfont{
+    font-size: 50px;
+}
+.footer{
+    padding: 20px 0 0;
+}
+p{
+    padding: 8px 0 0;
+}
